@@ -109,18 +109,18 @@ dependencies = [
 ]
 
 [[package]]
-name = "glacis-core"
-version = "0.1.0"
-
-[[package]]
-name = "glacis-launch"
-version = "0.1.0"
+name = "glacis"
+version = "0.2.0"
 dependencies = [
  "crossterm",
  "rand",
  "ratatui",
  "tokio",
 ]
+
+[[package]]
+name = "glacis-core"
+version = "0.1.0"
 
 [[package]]
 name = "hashbrown"

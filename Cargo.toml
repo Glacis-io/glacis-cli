@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "glacis-core",
-    "glacis-launch",
+    "glacis-bin",
 ]
 resolver = "2"
 
