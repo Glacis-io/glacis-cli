@@ -1,0 +1,11 @@
+[package]
+name = "glacis"
+version = "0.1.0"
+edition = "2021"
+authors = ["Joe Braidwood <joe@glacis.io>"]
+description = "Namespace reservation for the glacis project"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Glacis-io/glacis-cli"
+readme = "README.md"
+
+[dependencies]
