@@ -1,0 +1,10 @@
+[package]
+name = "glacis-core"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "Core library for Glacis chain of custody"
+
+[dependencies]
